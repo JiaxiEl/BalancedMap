@@ -1,1 +1,1 @@
-# BinarySearchTree
+# BalancedMap
