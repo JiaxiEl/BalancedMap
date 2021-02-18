@@ -1,1 +1,1 @@
-# BalancedMap
+# WordCount
